@@ -4,5 +4,5 @@
   * Desarrollo de software
 * Aplicación desplegada en vercel:
   * https://parcial1-web1-ibarra-408965-2.vercel.app/
-*Enlace video:
+* Enlace video:
   * https://youtu.be/ZZOPg2Rui18
